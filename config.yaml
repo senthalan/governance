@@ -64,7 +64,6 @@ teams:
   - name: owners
     maintainers:
       - chamarat-wso2
-      - git-repo-creation-app
       - maheshika
       - ryjones
 
